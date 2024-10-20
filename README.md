@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvaro Pranenda</h1>
-<h3 align="center">I specialize in product management and data analytics.</h3>
+<h3 align="center">I specialize in data-driven product management.</h3>
 
 - 🌱 I’m currently learning **how to use data to drive product decisions.**
 
