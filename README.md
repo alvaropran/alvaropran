@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **alvaapran@gmail.com**
 
-- ⚡ Fun fact **I enjoy travel hacking**
+- ⚡ Fun fact **I enjoy travel hacking and hiking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
