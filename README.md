@@ -2,7 +2,7 @@
 
 Data & software engineering @ University of Waterloo (BA Management Engineering '27)
 
-🏢 Incoming Data Engineer Intern @ **Figma** (May 2026)  
+🏢 Currently: Data Engineer Intern @ **Figma** (Summer 2026)  
 📬 alvaapran@gmail.com · [LinkedIn](https://linkedin.com/in/alvaropranenda)
 
 ---
